@@ -1,0 +1,42 @@
+_repo: Fabre-Poet-of-Science_3489
+alternative_title: La vie de J. H. Fabre. English
+contributor:
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+creator:
+  author:
+    agent_name: Legros, Georges Victor
+    birthdate: 1862
+    gutenberg_agent_id: '1213'
+    url: http://www.gutenberg.org/2009/agents/1213
+description: HERE I offer to the public the life of Jean-Henri Fabre; at once an admiring
+  commentary upon his work and an act of pious homage, such as ought to be offered,
+  while he lives, to the great naturalist who is evento-day so little known. Hitherto
+  it was not easy to speak of Henri Fabre with exactitude. An enemy to all advertisement,
+  he has so discreetly held himself withdrawn that one might almost say that he has
+  encouraged, by his silence, many doubtful or unfounded rumours, which in course
+  of time would become even more incorrect. For example, although quite recently his
+  material situation was presented in the gloomiest of lights, while it had really
+  for some time ceased to be precarious, it is nome the less true that during his
+  whole life he has had to labour prodigiously in order to earn a little money to
+  feed and rear his family, to the great detriment of his scientific inquiries; and
+  we cannot but regret that he was not freed from all material cares at least twenty
+  years earlier than was the case.
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Fabre, Jean-Henri, 1823-1915'
+- !lcsh 'Entomologists -- France -- Biography'
+title: Fabre, Poet of Science
+url: http://www.gutenberg.org/ebooks/3489
