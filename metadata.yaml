@@ -1,5 +1,5 @@
 _repo: Fabre-Poet-of-Science_3489
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La vie de J. H. Fabre. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Legros, Georges Victor
@@ -27,6 +30,8 @@ description: HERE I offer to the public the life of Jean-Henri Fabre; at once an
   feed and rear his family, to the great detriment of his scientific inquiries; and
   we cannot but regret that he was not freed from all material cares at least twenty
   years earlier than was the case.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3489#Fabre-Poet-of-Science
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
 identifiers:
