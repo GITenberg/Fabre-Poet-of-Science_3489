@@ -1,5 +1,5 @@
 _repo: Fabre-Poet-of-Science_3489
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: La vie de J. H. Fabre. English
 contributor:
   translator:
@@ -44,5 +44,6 @@ subjects:
 - !lcc 'QL'
 - !lcsh 'Fabre, Jean-Henri, 1823-1915'
 - !lcsh 'Entomologists -- France -- Biography'
+- GITenberg
 title: Fabre, Poet of Science
 url: http://www.gutenberg.org/ebooks/3489
